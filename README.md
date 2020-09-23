@@ -1,0 +1,2 @@
+# German_learning_notes
+# This repository will be mainly about my notes of learning German. 
